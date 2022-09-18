@@ -1,0 +1,39 @@
+
+
+    body { 
+    background: url("images/white-grey-japanese-circles.png");
+    background-size: 70% auto;
+    background-repeat: repeat        
+    }
+    div {
+      background: rgba(230, 230, 230, 0.247); /* Цвет фона */
+      color: rgb(0, 0, 0); /* Цвет текста */
+      padding: 20px; /* Поля вокруг текста */
+     }
+     
+     h1 {
+        color: #1768ca;
+        color: rgb(42, 111, 196);
+      }
+     h2 {
+        color: #2f5687;
+        color: rgba(47,86,135,1);
+      }
+
+      content {
+      top: 100px; /* Расстояние от верхнего края */
+      left: 170px; /* Расстояние от левого края */ 
+      bottom: 0; right: 0;
+      }
+
+      BODY { margin-bottom: 20px; }
+    footer {
+       position: relative; /* Фиксированное положение */
+       left: 20px; bottom: 0; /* Левый нижний угол */
+       padding: 10px; /* Поля вокруг текста */
+       background: #39b54a; /* Цвет фона */
+       color: #fff; /* Цвет текста */
+       width: 95%; /* Ширина слоя */
+      }
+
+      
