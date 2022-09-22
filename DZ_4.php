@@ -1,9 +1,9 @@
 <?php 
 $experience=[
-'job' =>['Механник','Лошкарь','Зоолог','Front End Developer','Web Developer / something.com','Graphic Designer / designsomething.com'],
-'mounts'=>['Jan', 'Feb','Mar','Apr','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
-'year'=>['1990','1995','1999','2014','2015','2017', '2019'],
-'lor'=>['Италия – удивительная страна, в которой переплелись история и современность, различные эпохи и богатое культурное наследие, традиции и самобытность.','Венеция — самый романтичный уголок Европы, расположенный на северном побережье Адриатического моря в Италии.','Флоренция, гордость Италии и один из красивейших городов мира, раскинулась в просторной долине, пересеченной рекой Арно.','Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.','Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.','Lorem ipsum dolor sit amet, consectetur adipisicing elit.']
+"job" =>["Механник","Лошкарь","Зоолог","Front End Developer","Web Developer / something.com","Graphic Designer / designsomething.com"],
+"mounts"=>["Jan", "Feb","Mar","Apr","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+"year"=>["1990","1995","1999","2014","2015","2017", "2019"],
+"lore"=>["Италия – удивительная страна, в которой переплелись история и современность, различные эпохи и богатое культурное наследие, традиции и самобытность.","Венеция — самый романтичный уголок Европы, расположенный на северном побережье Адриатического моря в Италии.","Флоренция, гордость Италии и один из красивейших городов мира, раскинулась в просторной долине, пересеченной рекой Арно.","Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.","Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.","Lorem ipsum dolor sit amet, consectetur adipisicing elit."]
 ]
 ?>
 
@@ -19,7 +19,7 @@ $experience=[
 <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=0JZrlTQRYJUWjG3by4yxS_zSwHLU5Xbav4WOkZkhY9-5ZfG1AyOB81VtQPrsABVWLy_H1io1054ewOXtJbldbb7kmE6obBoh5qesyBIsGcewTjsRimIvS1PIdAndF091oaFZQGcxJyNk5u1Lhpw06wRmR1_5u8fH2gD_Jv0Tu2iaL0gn8-Jfii6cezJP7BxiziosWVdZfTrYV4Mg7SqsCmr2LT1rPCRr6QMZPllfamzYzzUHNufHx5CKGgWi7og2r9aMTzHLD97_Ilqu9UAO5qQ1aDgol-Sg-z89pfbqXDNvdGlmKWW_GNfSTwEk6O_qnk5f7avuQhd9HpbHTAuFzLA71KEV9flhDHzfSlXNkgoQSFMg1ZMA0JnV1XRwKGZ3xjzoBDYPOQuoEn67QqkMjXZl3AvtvxrcMn2_xkHmoN52vHBxAv1rCqlpEAKh-1Xb7bSX5WdX04n0iFQPbsZuRJiVCsuH20xWkhfPgZONiNePvbGB75LgrTIwl0y4_ZUisujEwY9HNTx14EAUPxGgu_33nmtih8zlpwwesm5A8ghVqLci10AUIV3GZ6Z3CDDPLpNfjVagqgDogzssZLBnFUtPGpvt6pvLkoiJDUm2pGhQBC7s6nDwuZPwL0spGwd9AdJsFd2cOUSZkot7QcqGDVnPXWPcZPPgKwRBkNwKyZ-RizN9ZRRKkBrXLJCl0DB1aH6gktiZL2zS_stU2hSoQ4-Ow9pDpB-PGmIODFTd_kcx7e0mYxUR6Vhp8aOl2hforYdQw9R9VhrFtL1aRjbvnnpJLpIvgc_OE5NsnnJHRJhcegyW6H0kKl6ZiksXjxC1i8U_lEvB3asGHBu4XpdGYPqitT8tagvuiZB3NcAkymLzAMrKzjHQuS2NT8dIeqHjR2kYmr6U1mOxUJJHUvYgagJEUjvYQJtTFE-N9U6Qds88XTirI_ZwywYrQh0qvr6uxOU3KPwPhb2BjOalFWl4ECX22Agnf3sVfgmKu86NDSsIDOgLrWdqB4Z_byjQE49WONVz6oqu0mDU1UQZ4t5fy2v5LVvMIClZy5RAzaEJMno" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9zODM4c2FzLnN0b3JhZ2UueWFuZGV4Lm5ldC9yZGlzay9mMmZlNTk2ZjIyNmZjOGM0NTQ4MmE1OGVjYTg4YWUzMDdlNDcwZTkwYmM1YzRlZWExNzdjYTg4NTg2ZGVhMTNiLzYzMmNiYWZjL3ZEQzViM0d2R0JGdnd5WWZaWXRLckdTMU5hSEVRRENrQ25xUTRpZmctLVJaazFqM21CaHNDWTA5d0pNR1M2aDNuUlpOZDlnc3JkZmExLU1TX1Q0dFJ3PT0_dWlkPTAmZmlsZW5hbWU9Y3YuaHRtbCZkaXNwb3NpdGlvbj1hdHRhY2htZW50Jmhhc2g9R2k4U29wY0UlMmJwbTI1VlVYZ0ZuWUhaNmk3RHRKN2IyZTVQc0Nxbkp4OGVEWDZSUHBFNUhrSnIvSTh0NWZFSSUyYmlxL0o2YnBtUnlPSm9uVDNWb1huRGFnJTNkJTNkJmxpbWl0PTAmY29udGVudF90eXBlPXRleHQlMmZodG1sJm93bmVyX3VpZD0xOTk4NDEzNCZmc2l6ZT02NjM1JmhpZD1iZmYwZjdiNDk3YjRkMmYxOTZmNDQ3MjgyMjFkOWQxOCZtZWRpYV90eXBlPWRldmVsb3BtZW50JnRrbnY9djImcnRva2VuPWxvTVRwMHIxUVhYeiZmb3JjZV9kZWZhdWx0PW5vJnljcmlkPW5hLWFmNDI1M2YyZjhhY2M5YTc2YTVjZDg3NjlmNzc3MmNjLWRvd25sb2FkZXI1aCZ0cz01ZTk0OTQ4MjdiNzAwJnM9YjQxNWNlM2E3OGUxYjJlOWIzNDIwYTNjZDkwZGNiYTUxMTIzMDhjZDM0NWEyMjA1MWQ2YmI4NjNmYzQzYzc3NyZwYj1VMkZzZEdWa1gxX2ctYUw5UEM3Z1JpdlFNbF96Y2hhSXBDNXVwaFNCSHJDa1gtaS1saHpWdG9yVU9zclYyMnBDalpyMGp5SDJxeV9ocDAzNEtmVmJ1Slo1WnZWeldpWTEwanpxOUg5VzhqVQ"/><style>
-    html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Jost', sans-serif;}
+    html,body,h1,h2,h3,h4,h5,h6 {font-family: "Jost", sans-serif;}
     </style>
   </head>
 <body class="w3-light-grey">
@@ -90,39 +90,27 @@ $experience=[
 
     <!-- Right Column -->
     <div class="w3-twothird">
-    
+     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Опыт работы</h2>
         <div class="w3-container">
-        
-        
-        
-        
-        
-          <h5 class="w3-opacity"><b><?php echo $experience ['job'][0]?></b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>333333333 <span class="w3-tag w3-teal w3-round">Current</span></h6>
-          <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <h5 class="w3-opacity"><b><?php echo $experience ["job"][0]?></b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $experience ["mounts"][1]," ",$experience["year"][1]?>  <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p><?php echo $experience ["lore"][0]?></p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b><?php echo $experience ['job'][1]?></b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>22222222222</h6>
-          <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <h5 class="w3-opacity"><b><?php echo $experience ["job"][1]?></b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $experience["mounts"][2]," ",$experience["year"][0]?> - <?php echo $experience["mounts"][7]," ",$experience["year"][1]?></h6>
+          <p><?php echo $experience ["lore"][1]?></p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b><?php echo $experience ['job'][2]?></b></h5>
+          <h5 class="w3-opacity"><b><?php echo $experience ["job"][2]?></b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Mar 2012</h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
+          <p><?php echo $experience ["lore"][2]?></p><br>
         </div>
       </div>
-
-
-
-
-
-
-
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Образование</h2>
         <div class="w3-container">
